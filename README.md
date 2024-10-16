@@ -1,6 +1,6 @@
 <div>
-  <img alt="CodeQL Analysis" src="https://github.com/lazuardy-tech/manifesto/actions/workflows/github-code-scanning/codeql/badge.svg" />
-  <img alt="Vercel" src="https://deploy-badge.vercel.app?url=https://manifesto.lazuardy.tech&logo=vercel&name=vercel" />
+  <img alt="CodeQL Analysis" src="https://github.com/lazuardy-tech/partnership/actions/workflows/github-code-scanning/codeql/badge.svg" />
+  <img alt="Vercel" src="https://deploy-badge.vercel.app?url=https://partnership.lazuardy.tech&logo=vercel&name=vercel" />
 </div>
 
 ## 🤝🏻 partnership
