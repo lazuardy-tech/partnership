@@ -3,7 +3,7 @@
   <img alt="Vercel" src="https://deploy-badge.vercel.app?url=https://manifesto.lazuardy.tech&logo=vercel&name=vercel" />
 </div>
 
-## 📄 partnership
+## 🤝🏻 partnership
 
 The Lazuardy Partnership Program.
 
